@@ -3,8 +3,8 @@
         {
             "name": "Mac",
             "includePath": [
-                "/usr/local/opt/llvm/include",
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "/usr/local/opt/llvm/include"
             ],
             "defines": [],
             "macFrameworkPath": [
